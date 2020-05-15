@@ -8,8 +8,4 @@ create a new branch
 
 create a second branch
 
-<<<<<<< HEAD
 creating a new branch is quick and simple
-=======
-creating a new branch is quick and simple
->>>>>>> feature1
