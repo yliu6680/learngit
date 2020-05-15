@@ -7,3 +7,5 @@ ksflajsaflk
 create a new branch
 
 create a second branch
+
+creating a new branch is quick and simple
