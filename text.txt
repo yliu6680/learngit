@@ -12,4 +12,5 @@ creating a new branch is quick and simple
 
 branch management
 
+merge with default
 
