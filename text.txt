@@ -8,4 +8,8 @@ create a new branch
 
 create a second branch
 
-create a branch that is confilt with another branch
+<<<<<<< HEAD
+creating a new branch is quick and simple
+=======
+creating a new branch is quick and simple
+>>>>>>> feature1
