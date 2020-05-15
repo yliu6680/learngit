@@ -12,6 +12,8 @@ creating a new branch is quick and simple
 
 branch management
 
+I fix a bug
+
 merge with default
 
 work in progress
