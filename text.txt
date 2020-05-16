@@ -18,4 +18,4 @@ merge with default
 
 work in progress
 
-
+finished the project after fix the bug
